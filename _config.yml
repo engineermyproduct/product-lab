@@ -2,3 +2,6 @@ theme: minima
 title: Product Lab
 description: A public lab for building, testing, and learning through real-world projects in cybersecurity, AI, and systems thinking.
 author: Robert Morrison
+
+baseurl: "/product-lab"
+url: "https://engineermyproduct.github.io"
