@@ -1,6 +1,5 @@
 ---
 layout: home
-title: Learning in Public
 ---
 
 # Learning in Public
