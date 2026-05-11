@@ -3,9 +3,9 @@ layout: home
 title: Learning in Public
 ---
 
-## Product Lab
+# Learning in Public
 
-A public lab for building, testing, and documenting real-world projects in cybersecurity, AI, digital systems, and technical education.
+Product Lab is a space for documenting experiments in cybersecurity, AI workflows, and digital systems.
 
 ---
 
