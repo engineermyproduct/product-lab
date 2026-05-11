@@ -5,50 +5,50 @@ title: Learning in Public
 
 # Learning in Public
 
-A practical lab exploring cybersecurity, AI workflows, and digital systems through building, experimentation, and documentation.
+A practical lab exploring cybersecurity, AI workflows, and digital systems through building and experimentation.
 
 ---
 
-<br>
-
 ## About
 
-I’ve worked in education, systems, and leadership, with a growing focus on how technology can improve learning, thinking, and building.
+I’ve spent a number of years working in education, systems, and leadership, particularly in environments where structure, communication, and problem-solving sit at the centre of everything we do.
 
-Product Lab is where I document that transition from structured work into hands-on technical exploration.
+Along the way, I’ve also developed a growing interest in technology, not just as a tool, but as something that can reshape how we learn, build, and work.
 
-<br>
+Product Lab is where that shift gets documented in practice.
+
+---
 
 ## Current Focus
 
-I am actively working across four areas:
+At the moment, I’m exploring a few key areas:
 
-- Cybersecurity fundamentals and applied security thinking  
+- Cybersecurity fundamentals and applied thinking  
 - AI workflows and automation tools  
-- Digital systems and integration patterns  
-- Practical technical learning through experimentation  
+- Digital systems and how they connect  
+- Practical approaches to technical education and learning design  
 
-These areas overlap and inform each other through hands-on projects and small-scale builds.
+These aren’t separate tracks. They overlap and evolve through hands-on work and small experiments.
 
-<br>
+---
 
-## What This Site Is
+## What This Space Is
 
-This is not a blog and not a polished showcase.
+This is not a blog or a polished portfolio.
 
-It is a working space for:
+It’s a working space for:
 
-- building small systems  
-- testing ideas quickly  
-- documenting what I learn  
-- tracking progress over time  
+- testing ideas in real time  
+- building practical capability  
+- learning by doing (and sometimes by failing)  
+- documenting the process as it happens  
 
-<br>
+---
 
 ## Explore
 
 ### Projects
-Completed or structured builds with clear outcomes.
+Real builds and structured work with clear outcomes.
 
 → [View Projects](/projects)
 
@@ -62,17 +62,12 @@ Experiments, prototypes, and learning builds in progress.
 <br>
 
 ### Notes
-Technical reflections, breakdowns, and learning logs.
+Reflections, breakdowns, and technical learning logs.
 
 → [View Notes](/notes)
 
-<br>
-
 ---
 
-## Recent Direction
+## Current Direction
 
-Currently focusing on:
-- applying cybersecurity concepts in practical scripts and tools  
-- building AI-assisted workflows for productivity and learning  
-- improving understanding of how systems connect and scale  
+Right now the focus is on moving from theory into practice, especially in cybersecurity and AI-assisted workflows, and building small systems that connect ideas into something usable.
