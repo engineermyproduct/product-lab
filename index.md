@@ -5,27 +5,74 @@ title: Learning in Public
 
 # Learning in Public
 
-Product Lab is a space for documenting experiments in cybersecurity, AI workflows, and digital systems.
+A practical lab exploring cybersecurity, AI workflows, and digital systems through building, experimentation, and documentation.
 
 ---
+
+<br>
 
 ## About
 
-I’m Robert Morrison, an educator exploring cybersecurity, AI, and systems thinking through hands-on experimentation and public documentation.
+I’ve worked in education, systems, and leadership, with a growing focus on how technology can improve learning, thinking, and building.
 
-Product Lab is a space to test ideas, build workflows, and share practical demonstrations as I develop technical capability across education and emerging technologies.
+Product Lab is where I document that transition from structured work into hands-on technical exploration.
 
----
+<br>
 
 ## Current Focus
 
-- Cybersecurity learning and labs
-- AI-assisted workflows
-- Digital systems and automation
-- Technical education and tutorials
+I am actively working across four areas:
+
+- Cybersecurity fundamentals and applied security thinking  
+- AI workflows and automation tools  
+- Digital systems and integration patterns  
+- Practical technical learning through experimentation  
+
+These areas overlap and inform each other through hands-on projects and small-scale builds.
+
+<br>
+
+## What This Site Is
+
+This is not a blog and not a polished showcase.
+
+It is a working space for:
+
+- building small systems  
+- testing ideas quickly  
+- documenting what I learn  
+- tracking progress over time  
+
+<br>
+
+## Explore
+
+### Projects
+Completed or structured builds with clear outcomes.
+
+→ [View Projects](/projects)
+
+<br>
+
+### Labs
+Experiments, prototypes, and learning builds in progress.
+
+→ [View Labs](/labs)
+
+<br>
+
+### Notes
+Technical reflections, breakdowns, and learning logs.
+
+→ [View Notes](/notes)
+
+<br>
 
 ---
 
-## Latest Work
+## Recent Direction
 
-Posts and projects will be added here as the lab develops.
+Currently focusing on:
+- applying cybersecurity concepts in practical scripts and tools  
+- building AI-assisted workflows for productivity and learning  
+- improving understanding of how systems connect and scale  
