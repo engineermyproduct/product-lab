@@ -1,5 +1,6 @@
 ---
 layout: home
+title: Learning in Public
 ---
 
 ## Product Lab
