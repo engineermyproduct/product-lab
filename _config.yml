@@ -1,5 +1,9 @@
 theme: minima
 title: Product Lab
+header_pages:
+  - projects.md
+  - labs.md
+  - notes.md
 description: A public lab for building, testing, and learning through real-world projects in cybersecurity, AI, and systems thinking.
 author: Robert Morrison
 
